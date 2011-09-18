@@ -1,0 +1,8 @@
+name: TotallyOrbSome
+main: feildmaster.OrbRemove.plugin
+version: 1.0
+author: feildmaster
+permissions:
+  OrbRemove.announce:
+    description: Allows player to get broadcasts!
+    default: false
